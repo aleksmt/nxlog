@@ -7,7 +7,9 @@ The project uses **pipenv** for environment and dependency management. But you c
 
 ## 🎥 Demo
 
-![Test workflow demo](docs/demo.gif)
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
+
+![Test workflow demo](./docs/demo.gif)
 
 ## 🚀 Installation
 
