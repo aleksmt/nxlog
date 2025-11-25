@@ -1,0 +1,6 @@
+[pytest]
+testpaths = tests
+addopts = -v --headed
+
+# user-defined values
+app_host = https://demo.playwright.dev
